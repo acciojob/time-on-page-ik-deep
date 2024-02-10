@@ -14,7 +14,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Time Spent on Page: {seconds} seconds</h1>
+      <p>Time Spent on Page: {seconds} seconds</p>
     </div>
   );
 }
